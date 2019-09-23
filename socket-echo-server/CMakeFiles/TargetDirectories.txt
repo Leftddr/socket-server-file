@@ -1,0 +1,3 @@
+/home/datos/socket-echo-server/CMakeFiles/edit_cache.dir
+/home/datos/socket-echo-server/CMakeFiles/rebuild_cache.dir
+/home/datos/socket-echo-server/CMakeFiles/socket_echo_server.dir
